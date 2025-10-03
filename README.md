@@ -1,11 +1,6 @@
-markdown
 
 
-### ERD Diagram
-
-shema.png
-
-### Редактируемая версия схемы
+ссылка на фигму : https://www.figma.com/design/JaBCsSMkWLVARPqv32rxLX/Untitled?node-id=0-1&m=dev&t=Yyd3oW7chrUyXKg3-1
 
 ссылка на дравио: 
 
