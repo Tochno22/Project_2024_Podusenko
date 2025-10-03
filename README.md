@@ -1,11 +1,6 @@
-markdown
 
 
-### ERD Diagram
-
-shema.png
-
-### Редактируемая версия схемы
+скрин - shema.png
 
 ссылка на дравио: 
 
